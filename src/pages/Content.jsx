@@ -4,7 +4,6 @@ import React from "react";
 import "./style.css";
 
 //image
-import ContentLogo from "../images/ContentIMage.png";
 
 export default function Content() {
   return (
